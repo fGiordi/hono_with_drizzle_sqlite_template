@@ -44,20 +44,6 @@ Open your browser or use a tool like Postman to test the API at http://localhost
 Project Structure 📂
 Here’s an overview of the folder structure:
 
-Copy
-hono-template/
-├── src/
-│ ├── db/ # DB
-│ ├── middleware/ # Custom middleware
-| |\_\_ routes/ # Routes
-│ ├── services/ # services
-│ └── index.ts # Entry point
-├── public/ # Static assets (optional)
-├── .env # Environment variables
-├── tsconfig.json # TypeScript configuration
-├── package.json # Project dependencies
-└── README.md # You're here!
-
 Available Scripts 🧑‍💻
 npm run dev: Starts the development server with hot reloading.
 
